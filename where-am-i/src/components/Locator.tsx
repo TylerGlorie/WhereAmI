@@ -53,7 +53,7 @@ const Locator:React.FC = () => {
         Your Ip Address is {ip}
       </div>
       <div>
-        In city {city}
+        In city: {city}
       </div>
     </div>
   );
